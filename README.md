@@ -14,19 +14,19 @@ The goal of this project is to implement **Just-In-Time (JIT)** access to reduce
 
 ### 2. Configuring Role Eligibility
 - Assigned the **Security Administrator** role as **'Eligible'** to a test user.
-- **Evidence:** ! role assigned.png
+- **Evidence:** ![Role Assigned](role%20assigned.png)
 
 ### 3. Activation Workflow (The Security Guard)
 - Configured policies requiring:
   - **MFA** for every activation.
   - **Business Justification** for audit logs.
 - **Workflow in Action:**
-  ![Justification Screenshot](activating%role.png)
+  ![Justification Screenshot](activating%20role.png)
 
 ### 4. Verification & Audit
 - Verified that after 4 hours, the role is automatically revoked.
 - **Active Assignment Proof:**
-  ![Active Role Screenshot](activating%role%finished.png)
+  ![Active Role Screenshot](activating%20role%20finished.png)
 
 ## 🧠 Key Takeaways for SOC/Cloud Security
 - **Zero Trust:** Never trust, always verify (MFA).
