@@ -21,12 +21,12 @@ The goal of this project is to implement **Just-In-Time (JIT)** access to reduce
   - **MFA** for every activation.
   - **Business Justification** for audit logs.
 - **Workflow in Action:**
-  ![Justification Screenshot](activating role.png)
+  ![Justification Screenshot](activating%role.png)
 
 ### 4. Verification & Audit
 - Verified that after 4 hours, the role is automatically revoked.
 - **Active Assignment Proof:**
-  ![Active Role Screenshot](activating role finished.png)
+  ![Active Role Screenshot](activating%role%finished.png)
 
 ## 🧠 Key Takeaways for SOC/Cloud Security
 - **Zero Trust:** Never trust, always verify (MFA).
