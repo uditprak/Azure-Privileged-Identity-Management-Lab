@@ -21,7 +21,7 @@ The goal of this project is to implement **Just-In-Time (JIT)** access to reduce
   - **MFA** for every activation.
   - **Business Justification** for audit logs.
 - **Workflow in Action:**
-  ![Justification Screenshot](activating%20role.png)
+  ![Justification Screenshot](RoleActive.png)
 
 ### 4. Verification & Audit
 - Verified that after 4 hours, the role is automatically revoked.
