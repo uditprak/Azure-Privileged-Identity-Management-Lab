@@ -1,5 +1,5 @@
 # Azure-Privileged-Identity-Management-Lab
-Implementing Just-In-Time (JIT) access using Entra ID P2 for Zero Trust Security.
+Implementing Just-In-Time (JIT) access using Entra ID P2 — eliminating standing admin roles to enforce Zero Trust security in a real Azure tenant.
 
 # 🛡️ Azure Security Lab: Entra ID P2 & PIM Implementation
 
