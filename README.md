@@ -26,7 +26,7 @@ The goal of this project is to implement **Just-In-Time (JIT)** access to reduce
 ### 4. Verification & Audit
 - Verified that after 4 hours, the role is automatically revoked.
 - **Active Assignment Proof:**
-  ![Active Role Screenshot](activating%20role%20finished.png)
+  ![Active Role Screenshot](NoPriv.png)
 
 ## 🧠 Key Takeaways for SOC/Cloud Security
 - **Zero Trust:** Never trust, always verify (MFA).
