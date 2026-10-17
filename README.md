@@ -14,7 +14,7 @@ The goal of this project is to implement **Just-In-Time (JIT)** access to reduce
 
 ### 2. Configuring Role Eligibility
 - Assigned the **Security Administrator** role as **'Eligible'** to a test user.
-- **Evidence:** ![Role Elegibility](RoleElegible.png)
+- **Evidence:** ![Role Eligibility](RoleEligible.png)
 
 ### 3. Activation Workflow (The Security Guard)
 - Configured policies requiring:
